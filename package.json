@@ -19,6 +19,7 @@
   "dependencies": {
     "ejs": "^2.2.2",
     "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
     "grunt-ejs": "^0.2.0",
     "load-grunt-tasks": "^3.0.0",
     "underscore": "^1.7.0"
